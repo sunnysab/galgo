@@ -1,2 +1,2 @@
 # galgo
-Graph algoritms
+Graph algorithms
